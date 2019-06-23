@@ -39,7 +39,7 @@ img{
 /* Start Reusable */
 @font-face {
     font-family: "The Historia Demo";
-    src: url(http://www.example.org/mycustomfont.ttf) format("truetype");
+    src: url(https://styxer.github.io/Profilo/Fonts/TheHistoriaDemo.ttf) format("truetype");
 }
 /* End Reusable */
 
@@ -74,7 +74,9 @@ li{
 }
 
 .nav-link{
-    font-family: the
+    font-family: 'The Historia Demo', sans-serif;
+    font-size: 5rem;
+    padding: 1rem;
 
 }
 /* End Header */
